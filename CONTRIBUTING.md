@@ -99,6 +99,6 @@ git push origin feature/your-feature-name
 For further assistance, you can reach out to the maintainers via:
 
 -   **Email**: [prresearch26@gmail.com](mailto:prresearch26@gmail.com)
--   **GitHub Issues**: [Open an Issue](https://github.com/your-repo/EllipseFitAllignment/issues)
+
 
 Thank you for contributing!
