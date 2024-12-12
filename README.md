@@ -201,5 +201,5 @@ disp(assignment_matrix);
 
 ## Contact
 For additional help or feedback:
-- **Email**: support@example.com
+- **Email**: prresearch26@gmail.com
 - **GitHub Repository**: [EllipseFitAllignment](https://github.com/Pattern-Recognition-Research/EllipseFitAllignment)
