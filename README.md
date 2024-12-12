@@ -202,4 +202,4 @@ disp(assignment_matrix);
 ## Contact
 For additional help or feedback:
 - **Email**: support@example.com
-- **GitHub Repository**: [EllipseFitAllignment](https://github.com/your-repo/EllipseFitAllignment)
+- **GitHub Repository**: [EllipseFitAllignment](https://github.com/Pattern-Recognition-Research/EllipseFitAllignment)
